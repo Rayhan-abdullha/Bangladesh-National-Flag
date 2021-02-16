@@ -1,0 +1,14 @@
+* {margin: 0; padding: 0;}
+.flag {
+    background-color: green;
+    height: 100vh;
+    overflow: hidden;
+    display: grid;
+    place-items: center;
+}
+.red-circle {
+    background-color: red;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
